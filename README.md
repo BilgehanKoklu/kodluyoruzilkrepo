@@ -4,25 +4,22 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ## Installation
 Öncelikle projeyi clone'layın.
 
-`
+```
+git init
 git clone https://github.com/BilgehanKoklu/kodluyoruzilkrepo.git
-`
+```
 
 ## Usage 
 
 Projeyi clone'ladıktan sonra Visual Studio Code programında açın.
-- Terminal açılır
-`
-git init
-git clone <link>
-`
-- README.md dosyası istenilen gibi düzenlenir. 
 
-`
+- README dosyası istenilen gibi düzenlenir. 
+
+```
 git push <link>
-`
+```
 
-##License
+## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
